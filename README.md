@@ -18,8 +18,3 @@ Afterwards enter the following command to build and install dmenu
 (if necessary as root):
 
     make clean install
-
-
-## Running dmenu
-
-See the man page for details.
